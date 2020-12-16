@@ -1,6 +1,6 @@
 # US Multinational AI Labs
 
-The data in [Multinational-AI-Labs.csv](Multinational-AI-Labs.csv) supports CSET’s paper “Mapping U.S. Multinationals’ Global AI R&D Activity.” The data include all AI R&D labs that we were able to locate using public sources for four companies: Facebook, Google, IBM, and Microsoft. The two other companies we analyzed in the paper either do not use “labs” to structure their AI R&D (Amazon) or do not publicly disclose their R&D locations (Apple).  
+The data in [Multinational-AI-Labs.csv](Multinational-AI-Labs.csv) supports CSET’s paper “[Mapping U.S. Multinationals’ Global AI R&D Activity](https://cset.georgetown.edu/research/mapping-u-s-multinationals-global-ai-rd-activity/).” The data includes all AI R&D labs that we were able to locate using public sources for four companies: Facebook, Google, IBM, and Microsoft. The two other companies we analyzed in the paper either do not use “labs” to structure their AI R&D (Amazon) or do not publicly disclose their R&D locations (Apple).  
 
 The dataset contains following variables:  
 
